@@ -125,7 +125,8 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 - On-Demand Instances; On-demand instances provide compute capabity with no long-term commitments, allowing users to pay for what they use.
 
 ## Networking
- 
+ - A network is simply a collection of devices connected together, where each connection can be a request sent from one device to another  or a response to a request.
+ - In a given network, each device is assigned an Internet Protocol (IP), `which is a series of digits that uniquely identifies each device within the network`. These addresses ensure that responses and requests are sent to the correct devices
 
 
 
