@@ -132,7 +132,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
  
  
        When you create a VPC, you need to specify the range of IP addresses or the CIDR block for the network, which determines the size of the network. Each resource resource created inside the VPC will be assigned an IP address from the specified range.
-
+- A Subnet: Inside your VPC, you may need some resources to be public and others to be private. Subnets provide you with a more detailed control over access to your resources. You can achieve this by creating subnets within your VPC. You can create a public and a private subnet.
    
 
 
