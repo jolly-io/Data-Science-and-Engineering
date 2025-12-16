@@ -127,7 +127,13 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 ## Networking
  - A network is simply a collection of devices connected together, where each connection can be a request sent from one device to another  or a response to a request.
  - In a given network, each device is assigned an *Internet Protocol* (IP), `which is a series of digits that uniquely identifies each device within the network`. These addresses ensure that responses and requests are sent to the correct devices
- - CIDR is Classless Inter-Domain Routing. This represents the range of IP addresses that can be assigned to the devices within a particular network.
+ - CIDR Notation is Classless Inter-Domain Routing. This represents the range of IP addresses that can be assigned to the devices within a particular network.
+ - The following is an example of CIDR notation:
+
+   `192.101.0.0/24`
+
+This notation means that the first 24 bits are fixed and the last 8 bits can be any bits. In other words, 192.101.0.0/24 represents all IP addresses between 192.101.0.0 and 192.101.0.255.
+ - 
  - Virtual Private Cloud (VPC): is an isolated private network where you can launch your AWS resources. A VPC exists inside a region, which can contain more than one VPC, and a VPC spans multiple availability zones inside the region. A VPC is a way to isolate your resources such as EC2 from the outside world.
  
  
