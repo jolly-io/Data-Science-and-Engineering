@@ -139,7 +139,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
  - 
  - Virtual Private Cloud (VPC): is an isolated private network where you can launch your AWS resources. A VPC exists inside a region, which can contain more than one VPC, and a VPC spans multiple availability zones inside the region. A VPC is a way to isolate your resources such as EC2 from the outside world.
  
- 
+
        When you create a VPC, you need to specify the range of IP addresses or the CIDR block for the network, which determines the size of the network. Each resource resource created inside the VPC will be assigned an IP address from the specified range.
 - A Subnet: Inside your VPC, you may need some resources to be public and others to be private. Subnets provide you with a more detailed control over access to your resources. You can achieve this by creating subnets within your VPC. You can create a public and a private subnet.
 - Think of a Subnet as a smaller network inside your base network. Each subnet is assigned a CIDR block, which must be a subset of the VPC CIDR block. Resources in multiple subnets of the same VPC can communicate because they are part of the same VPC. See illustration shown:
