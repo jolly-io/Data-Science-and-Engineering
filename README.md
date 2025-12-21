@@ -38,8 +38,8 @@ Data Engineering is the development, implementation, and maintenance of systems 
         - In what volume will the data typically arrive?
         - What format is the data in? Can your downstream storage and transformation systems handle this format?
         - Is the source data in good shape for immediate downstream use? And for how long?
--  Transformation
--  Serving
+-  `Transformation`
+-  `Serving`
 
   There is also the notion of `undercurrents` - these are critical themes and concepts around the end-to-end data lifecycle. These include the following
 - Security
