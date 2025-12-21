@@ -106,8 +106,8 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
   * define non-functional requirements
   * document and confirm requirements with stakeholders
 - Choose tools and technologies to build your systems
-  * perform cost/benefit analysis and choose the right tools
-  * prototype and test your system, aligning with stakeholders
+  * perform cost/benefit analysis and choose the right tools and technologies
+  * prototype and test your system, aligning with stakeholder needs
 - Build, Evaluate, Iterate and Evolve your system based on stakeholder needs
 
 
