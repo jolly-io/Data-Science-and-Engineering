@@ -158,9 +158,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 
 
-
-
-The process of capturing patterns from data is called fitting or training a model.The data used is called the training data
+The process of capturing patterns from data is called fitting or training a model.The data used is called the training data. In a Decision Tree model, the point at which we work through the entire Splits and make our final prediction is called a LEAF.
 
 
 
