@@ -162,7 +162,7 @@ The process of capturing patterns from data is called fitting or training a mode
 
 Pandas is the primary tool data scientist for exploring and manipulating data. The most important part of the Pandas library is the DataFrame. A DataFrame holds the type of data you might think of as a table. This is similar to a sheet in Excel, or a table in a SQL database.
 
-
+`import pandas as pd` is the command we use to provision the pandas library when analyzing a dataset.
 
 
 
