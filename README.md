@@ -171,7 +171,9 @@ The Eight Number Summary Statistics.
 - standard deviation,
 - mininum value,
 - maximum value,
-- twenty-fifth percentile, fiftieth-percentile, and seventy-fifth percentile.
+- twenty-fifth percentile,
+- fiftieth-percentile, and
+- seventy-fifth percentile.
 
 
 
