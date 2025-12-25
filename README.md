@@ -172,7 +172,7 @@ The Eight Number Summary Statistics.
   * mininum value
   * maximum value
   * Twenty-fifth percentile
-  & Fiftieth-percentile,
+  & Fiftieth-percentile
   * seventy-fifth percentile.
 
 
