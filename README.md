@@ -175,15 +175,7 @@ The Eight Number Summary Statistics.
   * Fiftieth-percentile
   * seventy-fifth percentile
 
-        #print summary stats
-              pd.read_csv()
-
-
-        ```python
-        def hello_world():
-        print("Hello, GitHub!")```
-
-        hello_world()
+      
 
 
 
