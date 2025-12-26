@@ -113,7 +113,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
   * prototype and test your system, aligning with stakeholder needs
 - Build, Evaluate, Iterate and Evolve your system based on stakeholder needs
 
-  Business requirements are defined by the company leadership team, stakeholder requirements are defined by individual contributors within the organization.
+  *Business requirements are defined by the company leadership team, stakeholder requirements are defined by individual contributors within the organization.*
 
 
 ### Data Engineering on the `AWS Cloud`:
