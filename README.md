@@ -126,7 +126,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 A Virtual Server is a software representation or emulation of an actual physical server.
 
 ## AWS Core Services
-- Compute Services such as EC2. EC2 is a virtual server in the AWS cloud.
+- Compute Services such as AWS Elastic Compute Cloud (EC2). EC2 is a virtual server in the AWS cloud.
 - Networking such as Amazon Virtual Private Cloud
 - Storage (object, block and file)
     * Object storage is often used for storing unstructured data. e.g Amazon Simple Storage Service (S3)
