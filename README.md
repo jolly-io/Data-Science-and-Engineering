@@ -130,6 +130,7 @@ A Virtual Server is a software representation or emulation of an actual physical
 A Virtual Private Cloud (VPC) exists inside a region, which can contain more than one VPC, and a VPC spans multiple  availability zones within the region. VPC is a way to isolate your AWS resources (such as EC2) from the outside world.
 
 - Analytics, Machine Learning, and reverse ETL are the end use cases you will serve as a data engineer.
+- Upstream Stakeholders represent
 
 ## AWS Core Services
 - Compute Services such as AWS Elastic Compute Cloud (EC2). EC2 is a virtual server in the AWS cloud.
