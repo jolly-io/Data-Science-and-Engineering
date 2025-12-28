@@ -131,7 +131,7 @@ A Virtual Private Cloud (VPC) exists inside a region, which can contain more tha
 
 - Analytics, Machine Learning, and reverse ETL are the end use cases you will serve as a data engineer.
 - Upstream Stakeholders represent the stakeholders that create and or/maintain the source systems you will ingest data from.
-- Downstream stakeholders are the end-users to whom you're serving the data
+- Downstream stakeholders are the end-users to whom you're serving the data.
 
 ## AWS Core Services
 - Compute Services such as AWS Elastic Compute Cloud (EC2). EC2 is a virtual server in the AWS cloud.
