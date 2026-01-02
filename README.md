@@ -21,12 +21,12 @@ Data Engineering is the development, implementation, and maintenance of systems 
      - `The following questions can be asked to evaluate a source system:`
      - What are the essential characteristics of the data source? Is it an application? or A swarm of IoT devices?
      - How is the data generated?
-     - How dynamic is the data?
+     - How dynamic is the data over time?
      - Does the data persist long term or short term before deletion?
      - What is the speed of generation and what are the rate of errors, if any? This is known as the latency
      - What is the schema of the ingested data?
      - How frequently should data be pulled from the source system?
-     - Will reading from a data source impact its performance?
+     - Will reading data from its source impact its performance?
 - `Storage`:
   * Choosing a storage solution is key to success across the rest of the data lifecycle. Storage is also one of the more complicated stages of the lifecycle for a number of reasons.
   * First is that cloud storage solutions often requires use of more than a single source of truth. Storage solutions are rarely exclusively purposed for storage. They can be used for transformation capabilities as well. Amazon S3 select is good example of this. While storage is a phase of the data engineering lifecycle, it frequently touches on other stages, such as ingestion, transformation, and serving. In many ways, the way data is stored impacts how it is used in all of the 
