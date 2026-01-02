@@ -45,6 +45,7 @@ As a data engineer, developing and having a good working relationship with the s
         - How frequently will the data be accessed?
         - Is the data being reliably generated and available on demand?
         - In what volume will the data typically arrive?
+           * Will you doing a batch processing or a stream processing ingestion
         - What format is the data in? Can your downstream storage and transformation systems handle this format?
         - Is the source data in good shape for immediate downstream use? And for how long?
 -  `Transformation`
