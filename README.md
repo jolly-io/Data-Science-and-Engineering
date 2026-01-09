@@ -115,7 +115,6 @@ These types of data engineers in their roles avoid undifferentiated heavy liftin
 These types of data engineers build data tools and systems that scale and leverage a company's core competency and competitive advantage. Type A and B data engineers may work in the same company and at times may or may not be the same person!
 
 
-
 ## Key Elements of Requirement Gathering
 - Learn what existing data systems or solutions are in place
 - Learn what pain points or problems there are with existing solutions
