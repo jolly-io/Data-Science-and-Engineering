@@ -62,7 +62,7 @@ As a data engineer, developing and having a good working professional relationsh
       *Before choosing streaming ingestion, it's best to indentify a business use-case that justifies the trade-offs of using stream over batch ingestion.*
           
 -  `Transform-ation`
--  The transformation stage is where you as a data engineer starts to create value for your downstream stakeholders.
+-  The transformation stage is the turning something into useful stage. It's where you as a data engineer starts to create value for your downstream stakeholders.
   
 -  `Serving`
 
