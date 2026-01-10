@@ -37,7 +37,7 @@ As a data engineer, developing and having a good working professional relationsh
          Data access frequency will determine the temperature of the data. Data that is most frequently accessed is known as `hot data`.
            Hot data is commonly retreived multiple times per day. For example, systems that service user requests
            CRM systems, ticketting systems etc. And then, there is `lukewarm data` and `cold data` that are less frequently accessed.
- 
+
   *Storage Hierarchy* 
   - The bottom layer of the hierachy consists of raw storage ingredients like SSD and magnetic disks, along with processes like networking, serialization, and compression.
   - The middle layer consists of storage systems like databases and object storage that are built on top of the raw ingredients.
