@@ -65,7 +65,7 @@ As a data engineer, developing and having a good working professional relationsh
 -  `Transform-ation`
 -  The transformation stage is the turning into something useful stage. It's where you as a data engineer starts to create value for your downstream stakeholders. In reality, the transformation stage is comprised of three parts namely
 -        Query: this is issuing requests to read records from a database or other storage system. 
--        Modeling
+-        Modeling: 
 -        Transformation 
   
 -  `Serving`
