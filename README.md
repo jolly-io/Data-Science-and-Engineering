@@ -79,7 +79,6 @@ As a data engineer, developing and having a good working professional relationsh
 - Software Engineering
   *These "undercurrents" are aspects that will be relevant across every stage of the data lifecycle.*
   
-
 ## Concept of Data Maturity: 
 Data Maturity in an any organization is the progression from basic towards advanced data utilization, capabilities, and integration across the organization. An Organization's Data Maturity is not a factor of the age or revenue of a company. Typically companies fall within one or more of these stages on their data maturity evolution
 - `Starting with Data`
