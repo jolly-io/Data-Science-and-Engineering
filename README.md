@@ -66,7 +66,7 @@ As a data engineer, developing and having a good working professional relationsh
 -        Query: this is issuing requests to read records from a database or other storage system. This can used to perform actions such as data cleaning,
          data joining, data aggregation.
 -        Modeling: 
--        Transformation:
+-        Transformation: 
   
 -  `Serving`
 
