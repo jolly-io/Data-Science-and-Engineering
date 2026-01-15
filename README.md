@@ -67,7 +67,7 @@ As a data engineer, developing and having a good working professional relationsh
 -        Query: this is issuing requests to read records from a database or other storage system. This can used to perform actions such as data cleaning,
          data joining, data aggregation.
 -        Data Modeling: This is the way data relates to the real world. It involves choosing a coherent structure for your data to make it useful for the business
--        Transformation: 
+-        Data Transformation: Data that's manipulated, enhanced and saved for downstream use.
   
 -  `Serving`
 
