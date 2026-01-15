@@ -71,7 +71,10 @@ As a data engineer, developing and having a good working professional relationsh
   
 -  `Serving`
   This is where data is used to create value for downstream stakeholders.The data is used for analytics, machine learning or reverse ETL.
-- In analytics - business intelligence, operational analytics, embedded analytics.
+- In analytics
+-       - business intelligence,
+-        - operational analytics,
+-        -  embedded analytics.
   
 
   There is also the notion of `undercurrents` - these are critical themes and concepts around the end-to-end data lifecycle. These include the following
