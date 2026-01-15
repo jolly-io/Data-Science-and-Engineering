@@ -70,6 +70,8 @@ As a data engineer, developing and having a good working professional relationsh
 -        Data Transformation: Data that's manipulated, enhanced and saved for downstream use.
   
 -  `Serving`
+  This is where data is used to create value for downstream stakeholders.
+  
 
   There is also the notion of `undercurrents` - these are critical themes and concepts around the end-to-end data lifecycle. These include the following
 - Security
