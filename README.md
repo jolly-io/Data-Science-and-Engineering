@@ -67,7 +67,7 @@ As a data engineer, developing and having a good working professional relationsh
          data joining, data aggregation.
 -        Data Modeling: This is the way data relates to the real world. It involves choosing a coherent structure for your data to make it useful for the business
 -        Data Transformation: Data that's manipulated, enhanced and saved for downstream use.
-  
+
 -  `Serving`
   This is where data is used to create value for downstream stakeholders.The data is used for analytics, machine learning or reverse ETL.
 - In analytics
