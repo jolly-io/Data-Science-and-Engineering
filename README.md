@@ -90,7 +90,7 @@ Data Maturity in an any organization is the progression from basic towards advan
 - `Scaliing with Data`
 - `Leading with Data`
 
-In general, the role of a data engineer evolves from a generalist to a specialist as an organization advances through these stages of the data maturity model.
+In general, the role of a data engineer evolves from a generalist to a specialist as an organization advances through these stages of the data maturity model. 
 
 ## Business Responsibilites of a Data Engineer
 - Understand how to scope and gather business and product requirements
