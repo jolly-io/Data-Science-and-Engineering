@@ -83,7 +83,7 @@ As a data engineer, developing and having a good working professional relationsh
 -       Entails responsibility for the quality, integrity, security and usability of the data assets through the lifecycle of the data
 - DataOps
 - Data Architecture
--       Think of this as the roadmap or blueprint for your data systems
+-       Think of this as the agile roadmap or blueprint for your data systems that can support the evolving data needs of an enterprise.
 - Orchestration
 - Software Engineering
   *These "undercurrents" are aspects that will be relevant across every stage of the data lifecycle.*
