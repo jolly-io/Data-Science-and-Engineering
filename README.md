@@ -80,6 +80,7 @@ As a data engineer, developing and having a good working professional relationsh
 - Security
 -       Adhereing to the principle of least priviledge is a standard security practice for people that have access to systems in your organization.
 - Data Management
+-       Entails responsibility for the quality, integrity, security and usability of the data assets through the lifecycle of the data
 - DataOps
 - Data Architecture
 - Orchestration
