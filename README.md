@@ -77,12 +77,12 @@ As a data engineer, developing and having a good working professional relationsh
 
   There is also the notion of `undercurrents` - these are critical themes and concepts around the end-to-end data lifecycle. These include the following
 - Security
--       Adhereing to the principle of least priviledge is a standard security practice for people that have access to systems in your organization.
+   * Adhereing to the principle of least priviledge is a standard security practice for people that have access to systems in your organization.
 - Data Management
--       Entails responsibility for the quality, integrity, security and usability of the data assets through the lifecycle of the data
+   * Entails responsibility for the quality, integrity, security and usability of the data assets through the lifecycle of the data
 - DataOps
 - Data Architecture
--       Think of this as the agile roadmap or blueprint for your data systems that can support the evolving data needs of an enterprise..
+   * Think of this as the agile roadmap or blueprint for your data systems that can support the evolving data needs of an enterprise..
 
   `Principles of Good Data Architecture:`
       * Choose common components wisely
