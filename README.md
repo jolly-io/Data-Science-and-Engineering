@@ -85,9 +85,9 @@ As a data engineer, developing and having a good working professional relationsh
 -       Think of this as the agile roadmap or blueprint for your data systems that can support the evolving data needs of an enterprise..
 
   `Principles of Good Data Architecture:`
-      - Choose common components wisely
-      - Plan for failure
-      - Architect for scability
+      * Choose common components wisely
+      * Plan for failure
+      * Architect for scability
 -  
 - Orchestration
 - Software Engineering
