@@ -69,7 +69,6 @@ As a data engineer, developing and having a good working professional relationsh
    * Data Transformation: Data that's manipulated, enhanced and saved for downstream use.
 
 -  `Serving`
-  
    This is where data is used to create value for downstream stakeholders.The data is used for analytics, AI/machine learning or reverse ETL.
    - business intelligence
    - operational analytics
