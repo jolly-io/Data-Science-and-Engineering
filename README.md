@@ -93,7 +93,6 @@ As a data engineer, developing and having a good working professional relationsh
    * Plan for failure
    * Architect for scability
 
-  
 - Orchestration
 - Software Engineering
   *These "undercurrents" are aspects that will be relevant across every stage of the data lifecycle.*
