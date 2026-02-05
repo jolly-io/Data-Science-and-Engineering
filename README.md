@@ -2,7 +2,7 @@
 
 `Setting the scene`
 
-As you go through this material, picture yourself as a new data engineer hire in your organization. Your objective will be to understand the needs of your stakeholders, adopting a first principles approach to align and translate the needs of the buiness into technical solutions.  
+As you work through this material, picture yourself as a new data engineer hire in your organization. Your objective will be to understand the needs of your stakeholders, adopting a first principles approach to align and translate the needs of the buiness into technical solutions.  
 
 ## Research Notes on Data Science and Engineering
   
