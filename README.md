@@ -29,6 +29,7 @@ The core stages of the data engineering lifecyle are as follows:
      - Will reading data from its source impact its performance?
 As a data engineer, developing and having a good working professional relationship with the stakeholders of source systems you'll be working with is a crucial piece of data engineering success.They will help avoid unecessary pitfalls as they have proximity to your data sources.
 
+
 - `Storage`:
 
   * Choosing a storage solution is key to success across the rest of the data lifecycle. Storage is also one of the more complicated stages of the lifecycle for a number of reasons.
