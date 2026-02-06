@@ -12,11 +12,11 @@ Data Engineering is the development, implementation, and maintenance of systems 
 
 ### Data Engineering Lifecycle: 
 The core stages of the data engineering lifecyle are as follows:
-      Generation, 
-      Ingestion, 
-      Transform(ation), 
-      Storage, 
-      Serving...
+     - Generation, 
+     - Ingestion, 
+     - Transform(ation), 
+     - Storage, 
+     - Serving...
       
 *Note: Data storage is happening constantly throughout the entire lifecycle of the data engineering process*   
 - `Generation`:
