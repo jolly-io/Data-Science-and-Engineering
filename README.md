@@ -17,7 +17,6 @@ The core stages of the data engineering lifecyle are as follows:
      - Transform(ation), 
      - Storage, 
      - Serving...
-
 *Note: Data storage is happening constantly throughout the entire lifecycle of the data engineering process*   
 - `Generation`:
   * The data used in the data engineering lifecyle originates within/from source systems.For example, a source system could be an IOT device, an application message queue, or a transactional database. A data engineer needs to have a working knowledge of how a given source system operates, generates its data, the frequency, velocity and variety of the data it generates. Engineers need to maintain a line of communication with source systems owners to stay up-to-date on changes that can impact data pipelines and analytics.
