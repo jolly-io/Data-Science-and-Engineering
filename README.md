@@ -14,6 +14,7 @@ Data Engineering is the development, implementation, and maintenance of systems 
 Engineering sits at the intersection of security, data operations (Data Ops), data architecture, Data management and software engineering.
 
 
+
 ### Data Engineering Lifecycle:    
 The core stages of the data engineering lifecyle are as follows:
      - Generation, 
