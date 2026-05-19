@@ -10,7 +10,6 @@ As you work through this material, imagine yourself as a new data engineer hire 
 
 Data Engineering is the development, implementation, and maintenance of systems and processes that take in raw data (generate and ingest), transforms it and produce high-quality consistent information that supports downstream use cases such as analysis and machine learning. Data 
 
-
 Engineering sits at the intersection of security, data operations (Data Ops), data architecture, Data management and software engineering.
 ### Data Engineering Lifecycle:    
 The core stages of the data engineering lifecyle are as follows:
@@ -19,6 +18,7 @@ The core stages of the data engineering lifecyle are as follows:
      - Transform(ation), 
      - Storage, 
      - Serving...
+
 *Note: Data storage is happening constantly throughout the entire lifecycle of the data engineering process*   
 - `Generation`:
   * The data used in the data engineering lifecyle originates within/from source systems.For example, a source system could be an IOT device, an application message queue, or a transactional database. A data engineer needs to have a working knowledge of how a given source system operates, generates its data, the frequency, velocity and variety of the data it generates. Engineers need to maintain a line of communication with source systems owners to stay up-to-date on changes that can impact data pipelines and analytics.
