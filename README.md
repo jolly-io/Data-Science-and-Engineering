@@ -1,4 +1,4 @@
-### Notes on Artificial Intelligence, Machine Learning & Data Science & Engineering_Notebook
+### Notes on Artificial Intelligence, Machine Learning & Data Science & Engineering 
 
 `Mis-en-scene`
 
