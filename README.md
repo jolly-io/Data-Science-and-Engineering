@@ -221,7 +221,6 @@ A Virtual Private Cloud (VPC) exists inside a region, which can contain more tha
 - AWS is responsible for the `security of the cloud`. You are responsible for the `security in the cloud`.
 
 
-
 The process of capturing patterns from data is called fitting or training a model.The data used is called the training data. In a Decision Tree model, the point at which we work through the entire Splits and make our final prediction is called a LEAF. The Split we create in the decision tree is determined by the data we use.
 
 Pandas is the primary tool data scientist for exploring and manipulating data. The most important part of the Pandas library is the DataFrame. A DataFrame holds the type of data you might think of as a table. This is similar to a sheet in Excel, or a table in a SQL database.
