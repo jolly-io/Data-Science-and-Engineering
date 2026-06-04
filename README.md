@@ -1,6 +1,7 @@
 ### Notes on Artificial Intelligence, LLMs, Machine Learning & Data Science & Engineering 
 
 ### Claude 101
+Claude is more than just a chatbot, it's a thinking partner...
 
 `Mis-en-scene`
 
