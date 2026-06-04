@@ -1,4 +1,5 @@
-### Notes on Artificial Intelligence, Machine Learning & Data Science & Engineering 
+### Notes on Artificial Intelligence, LLMs, Machine Learning & Data Science & Engineering 
+
 
 `Mis-en-scene`
 
