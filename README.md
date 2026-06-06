@@ -9,7 +9,7 @@ As you work through this material, role play as a new data engineer hire in your
 
 ## Research Notes on Data Science and Engineering
 
-## What is Data Engineering?
+## What is Data Engineering?  
 
 Data Engineering is the development, implementation, and maintenance of systems and processes that take in raw data (generate and ingest), transforms it and produce high-quality consistent information that supports downstream use cases such as analysis and machine learning. Data 
 
