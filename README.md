@@ -1,7 +1,7 @@
 ### Notes on Artificial Intelligence, LLMs, Machine Learning & Data Science & Engineering 
 
 ### Claude 101
-Claude is more than just a chatbot, it's a thinking partner....
+Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner....
 
 `Mis-en-scene`
 
@@ -21,7 +21,6 @@ The core stages of the data engineering lifecyle are as follows:
      - Transform(ation), 
      - Storage,   
      - Serving...                 
-
 
                                 
 *Note: Data storage is happening constantly throughout the entire lifecycle of the data engineering process*        
