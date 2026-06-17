@@ -26,7 +26,7 @@ The core stages of the data engineering lifecyle are as follows:
      - Storage,   
      - Serving...         
 
-                            
+                      
 *Note: Data storage is happening constantly throughout the entire lifecycle of the data engineering process*        
 
 - `Generation`:   
