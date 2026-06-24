@@ -22,7 +22,7 @@ Engineering sits at the intersection of security, data operations (Data Ops), da
 The core stages of the data engineering lifecyle are as follows:
      - Generation, 
      - Ingestion, 
-     - Transform(ation), 
+     - Transform(ation),    
      - Storage,   
      - Serving...         
 
