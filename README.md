@@ -17,7 +17,6 @@ Some of Claude's capabilities included:
 
 As you work through this material, role play as a new data engineer hire in your organization. Your objective is to to understand the needs of your stakeholders, adopting a first principles approach to align and translate the needs of the buiness into technical solutions.  
 
-
 ## Research Notes on Data Science and Engineering
 
 ## What is Data Engineering?  
