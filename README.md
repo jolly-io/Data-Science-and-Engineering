@@ -2,7 +2,7 @@
  
  ### Glossary on Artificial Intelligence
 
-🥇 AGI - Artificial General Intelligence, described as highly autonomous systems that out-perform humans at most economically viable work
+🥇 AGI - Artificial General Intelligence, described as highly autonomous systems that out-perform humans  at most economically viable work
 
 🥈 AI Agents 
 
