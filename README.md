@@ -6,6 +6,7 @@
 
 🥈 AI Agents 
 
+
 ### Claude 101
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner....
 Some of Claude's capabilities included:
