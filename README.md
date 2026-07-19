@@ -5,7 +5,7 @@
 🥇 AGI - Artificial General Intelligence, described as highly autonomous systems that  out-perform humans at most economically viable work  
 
 🥈 AI Agents 0000
-
+  
 ### Claude 101
 Claude is more than just a chatbot, it's an AI assistant designed to be a thinking partner....
 Some of Claude's capabilities included:
