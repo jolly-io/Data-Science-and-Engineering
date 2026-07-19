@@ -12,7 +12,7 @@ Some of Claude's capabilities included:
 - writing
 - research & analysis
 - coding assistance
-   
+     
 `Mis-en-scene`  
 
 As you work through this material, role play as a new data engineer hire in your organization. Your objective is to to understand the needs of your stakeholders, adopting a first principles approach to align and translate the needs of the buiness into technical solutions.  
