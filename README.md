@@ -14,7 +14,7 @@ Claude is more than just a chatbot, it's an AI assistant designed to be a thinki
 Some of Claude's capabilities included:
 - writing
 - research & analysis
-- coding assistance  
+- coding assistance    
            
 `Mis-en-scene`  
 
